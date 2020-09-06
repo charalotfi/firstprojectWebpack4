@@ -1,24 +1,25 @@
 {
-  "name": "firstprojctwebpack4",
-  "version": "1.0.0",
-  "description": "��#\u0000 \u0000f\u0000i\u0000r\u0000s\u0000t\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000W\u0000e\u0000b\u0000p\u0000a\u0000c\u0000k\u00004\u0000\r\u0000 \u0000",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/charalotfi/firstprojectWebpack4.git"
-  },
-  "author": "chara lotfi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/charalotfi/firstprojectWebpack4/issues"
-  },
-  "homepage": "https://github.com/charalotfi/firstprojectWebpack4#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
-  }
+    "name": "firstprojctwebpack4",
+    "version": "1.0.0",
+    "description": "��#\u0000 \u0000f\u0000i\u0000r\u0000s\u0000t\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000W\u0000e\u0000b\u0000p\u0000a\u0000c\u0000k\u00004\u0000\r\u0000 \u0000",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "webpack  --mode development"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/charalotfi/firstprojectWebpack4.git"
+    },
+    "author": "chara lotfi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/charalotfi/firstprojectWebpack4/issues"
+    },
+    "homepage": "https://github.com/charalotfi/firstprojectWebpack4#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "^4.44.1",
+        "webpack-cli": "^3.3.12"
+    }
 }
