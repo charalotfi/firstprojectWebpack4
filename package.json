@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/charalotfi/firstprojectWebpack4/issues"
   },
-  "homepage": "https://github.com/charalotfi/firstprojectWebpack4#readme"
+  "homepage": "https://github.com/charalotfi/firstprojectWebpack4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
