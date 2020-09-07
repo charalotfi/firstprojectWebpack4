@@ -1,0 +1,9 @@
+$bcg:white;
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: $bcg;
+    @import "./layouts/footer/footer.scss";
+    @import "./layouts/main/main.scss";
+    @import "./layouts/header/header.scss";
+}
